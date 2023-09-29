@@ -8,11 +8,10 @@ Through this project, my goal was to make a webpage that can house my previous w
 
 To see my project, open the URL. There you will be meet with my webpage. To go to different sections, click the links in the navigation bar at the top. To view my work, click on the image and you will be taken to the webpage. If you click the contact me links, you will be taken to my phone number, email, and GitHub for this project. 
 
+Website:
+
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+You can use this website to store different projects and personal information for future projects. 
 
 ![alt text](Images/portfolio-1.png)
 ![alt text](Images/portfolio-2.png)
