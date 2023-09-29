@@ -8,7 +8,7 @@ Through this project, my goal was to make a webpage that can house my previous w
 
 To see my project, open the URL. There you will be meet with my webpage. To go to different sections, click the links in the navigation bar at the top. To view my work, click on the image and you will be taken to the webpage. If you click the contact me links, you will be taken to my phone number, email, and GitHub for this project. 
 
-Website:
+Website: https://krohnayden.github.io/aydenk-portfolio/
 
 ## Usage
 You can use this website to store different projects and personal information for future projects. 
@@ -18,12 +18,11 @@ You can use this website to store different projects and personal information fo
 ![alt text](Images/portfolio-3.png)
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+### Photo Credit
+Lisa Fotios - https://stocksnap.io/photo/widescreen-dramatic-RPYXEFBOBR
+James Osborne - https://pixabay.com/photos/code-html-digital-coding-web-1076536/
+200 degrees - https://pixabay.com/vectors/dual-screen-programming-coding-1745705/
+Mudassa Iqbal - https://pixabay.com/illustrations/web-design-user-interface-website-3411373/
 
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+License: MIT License
